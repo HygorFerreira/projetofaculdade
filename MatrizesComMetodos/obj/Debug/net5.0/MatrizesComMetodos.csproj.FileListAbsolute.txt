@@ -1,0 +1,16 @@
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\MatrizesComMetodos.exe
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\MatrizesComMetodos.deps.json
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\MatrizesComMetodos.runtimeconfig.json
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\MatrizesComMetodos.runtimeconfig.dev.json
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\MatrizesComMetodos.dll
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\ref\MatrizesComMetodos.dll
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\bin\Debug\net5.0\MatrizesComMetodos.pdb
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.AssemblyInfoInputs.cache
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.AssemblyInfo.cs
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.csproj.CoreCompileInputs.cache
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.dll
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\ref\MatrizesComMetodos.dll
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.pdb
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.genruntimeconfig.cache
+C:\Users\LG\OneDrive\_UNINASSAU\2021_2\LOGICA_DE_PROGRAMACAO_ALGORITMICA\CODIGOS\NOITE\COLECOES\Colecoes\MatrizesComMetodos\obj\Debug\net5.0\MatrizesComMetodos.csproj.AssemblyReference.cache
